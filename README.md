@@ -23,3 +23,8 @@ Soon (after the weekend):
 
 Verify clipboard data w/ regex before attempting submission
 Add Win10 Toast notifier when submission fails.
+
+Later:
+
+PyQT Scheduled scan support, possibly.
+PyQT custom scan and template selection if feasible and workable.
